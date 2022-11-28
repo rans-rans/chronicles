@@ -1,6 +1,6 @@
 # notebook
 
-A new Flutter project.
+A flutter app for organizing notes
 
 ## Getting Started
 
